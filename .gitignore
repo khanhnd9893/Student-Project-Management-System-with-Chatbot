@@ -1,0 +1,36 @@
+# Secrets and local configuration
+.env
+.env.*
+!.env.example
+config/local.php
+config/secrets.php
+
+# Dependencies
+/vendor/
+/node_modules/
+
+# Runtime and logs
+/logs/
+/*.log
+/storage/cache/*
+/storage/logs/*
+/storage/uploads/*
+!/storage/uploads/.gitkeep
+
+# Editor / OS
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
+*.swp
+*.swo
+
+# Test/build artifacts
+coverage/
+build/
+dist/
+
+# Local database dumps (keep intentional schema/seed files)
+*.dump
+*.bak
+*.sql.gz
