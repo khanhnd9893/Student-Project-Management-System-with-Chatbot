@@ -55,8 +55,6 @@ Hệ thống cung cấp giao diện riêng cho quản trị viên, giảng viên
 | Ngôn ngữ giao diện | Tiếng Việt |
 | Trạng thái | Đang phát triển |
 
-> **Lưu ý:** Các công nghệ trên là công nghệ dự kiến sử dụng. Trạng thái triển khai thực tế của từng chức năng sẽ được cập nhật khi quá trình phát triển hoàn thành.
-
 ---
 
  🎯 2. LÝ DO CHỌN ĐỀ TÀI
@@ -509,10 +507,6 @@ student-project-management-chatbot/
 └── README.md
 ```
 
-> Cấu trúc trên là cấu trúc mục tiêu. Các tệp và thư mục sẽ được bổ sung trong quá trình phát triển. Không phải tất cả thành phần đã được triển khai ở thời điểm tạo README.
-
----
-
  🗄️ 10. THIẾT KẾ CƠ SỞ DỮ LIỆU
 
 Cơ sở dữ liệu được thiết kế để quản lý người dùng, đề tài, nhóm thực hiện, nhiệm vụ, tài liệu và hội thoại chatbot.
@@ -910,20 +904,17 @@ docs: update installation guide
 
 **Tên tiếng Anh:** Student Project Management System with Chatbot
 
-**Tác giả:** [Điền tên sinh viên hoặc nhóm thực hiện]
+**Tác giả:** Nhóm 4
 
-**Trường:** [Điền tên trường]
+**Trường:** TRƯỜNG ĐẠI HỌC GIAO THÔNG VẬN TẢI
 
-**Khoa/Bộ môn:** [Điền tên khoa hoặc bộ môn]
+**Khoa/Bộ môn:** Khoa Công nghệ thông tin
 
-**Lớp:** [Điền lớp]
+**Giảng viên hướng dẫn:** Đặng Nhân Cách
 
-**Giảng viên hướng dẫn:** [Điền tên giảng viên nếu có]
+*PM phụ trách:** Phạm Văn Phi Long
 
 Repository: `student-project-management-chatbot`
-
-> Hãy thay các nội dung trong dấu ngoặc vuông bằng thông tin thực tế trước khi nộp hoặc giới thiệu dự án.
-
 ---
 
  📄 18. GIẤY PHÉP
@@ -958,7 +949,6 @@ Các hạng mục sẽ được cập nhật theo tiến độ thực hiện.
 - [ ] Hoàn thiện tài liệu sử dụng.
 - [ ] Chuẩn bị triển khai.
 
-> Các mục chỉ được đánh dấu hoàn thành khi đã được thực hiện và kiểm tra trong repository.
 
 ---
 
